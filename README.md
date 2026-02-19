@@ -9,7 +9,7 @@ A simple desktop calculator application built using **Python** and the **PyQt5**
 * **Error Handling**: Equipped with basic error handling (for example, to prevent the application from crashing when dividing by zero or encountering invalid input).
 
 ## 🛠️ Prerequisites
-Make sure your system has Python installed. You will also need the `PyQt5` library to run the Graphical User Interface.
+Make sure your system has Python 3.10 installed. You will also need the `PyQt5` library to run the Graphical User Interface.
 
 Install the required dependencies using your terminal or command prompt:
 ```bash
@@ -32,7 +32,7 @@ Sebuah aplikasi kalkulator desktop sederhana yang dibangun menggunakan **Python*
 * **Error Handling**: Dilengkapi dengan penanganan *error* dasar (misalnya untuk mencegah aplikasi *crash* saat pembagian dengan nol atau input tidak valid).
 
 ## 🛠️ Prasyarat (Prerequisites)
-Pastikan sistem kamu sudah terinstal Python. Kamu juga membutuhkan library `PyQt5` untuk menjalankan Graphical User Interface-nya.
+Pastikan sistem kamu sudah terinstal Python 3.10 . Kamu juga membutuhkan library `PyQt5` untuk menjalankan Graphical User Interface-nya.
 
 Instal dependensi yang dibutuhkan menggunakan terminal atau command prompt:
 ```bash
